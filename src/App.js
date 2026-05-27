@@ -887,11 +887,10 @@ function ProjectsSection() {
 function ContactSection() {
   const contactLinks = [
     {
-      icon: "✉",
       label: "Ozoriaeliana@gmail.com",
       href: "mailto:Ozoriaeliana@gmail.com",
     },
-    { icon: "☎", label: "(609) 432-0662" },
+    { label: "(609) 432-0662" },
     {
       label: "LinkedIn",
       href: "https://www.linkedin.com/in/eliana-ozoria-6119b9384/?skipRedirect=true",
