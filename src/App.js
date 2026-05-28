@@ -488,7 +488,7 @@ function AboutSection() {
 
           <div style={{ marginBottom: "2rem", textAlign: "center" }}>
             <a
-              href="https://drive.google.com/file/d/1-ujbmizVSb-jZz8lk_HSYdpCOSJrQz-0/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Ut_EawG4JjW9bFVOOdS5DFfuZjJpoljA/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               style={{
